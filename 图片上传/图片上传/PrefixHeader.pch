@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  图片上传
+//
+//  Created by imac on 2017/6/16.
+//  Copyright © 2017年 联系QQ:1084356436. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
